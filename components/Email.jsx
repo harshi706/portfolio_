@@ -130,7 +130,7 @@ const Email = () => {
                   />
                 </svg>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+7754884523"
                   className="text-orange-600 hover:text-orange-700 font-semibold"
                 >
                   Call
